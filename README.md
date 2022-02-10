@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, Java
 - 💞️ I’m looking to collaborate on Graphic Design & Python Projects
 - 📫 How to reach me 
-- Instagram: https://instagram.com/k.r.i.s.16_
+- Instagram: https://instagram.com/k.r.i.s.16_/
 - Whatsapp: https://wa.me/message/LVR52XFL2JHRM1 (Dont call)
 
 <!---

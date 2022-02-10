@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Machine Learning, Java
 - 💞️ I’m looking to collaborate on Graphic Design & Python Projects
 - 📫 How to reach me 
-- Instagram: https://instagram.com/k.r.i.s.16_/
-- Whatsapp: https://wa.me/message/LVR52XFL2JHRM1 (Dont call)
+-   Instagram: https://instagram.com/k.r.i.s.16_/
+-   Whatsapp: https://wa.me/message/LVR52XFL2JHRM1 (Dont call)
 
 <!---
 krisanjay16/krisanjay16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

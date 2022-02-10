@@ -1,4 +1,4 @@
-- 👋 Hi, I’m #kris, #Private Programming Tutor (Python)
+- 👋 Hi, I’m kris, Private Programming Tutor (Python)
 - 👀 I’m interested Python, Networking, Graphic Design
 - 🌱 I’m currently learning Machine Learning, Java
 - 💞️ I’m looking to collaborate on Graphic Design & Python Projects
